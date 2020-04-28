@@ -8,4 +8,4 @@ To use the script
 
 Some quirks:
 1) The Contents.json files for iOS have trailing spaces that will need to manually fixed.
-2) You can manually clean up the extra image files + iOS directory folder.
+2) You can manually clean up the image files + iOS directory folder from this folder.
